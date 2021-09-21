@@ -9,7 +9,9 @@
 ● Hotel guests can book a room or cancel reservation. Receptionist can book a room, check in and check out.
 
 **Technology USED IN PROJECT:**
+
     1)Java
+    
     2)MySql
     
 **Conclusion:**
